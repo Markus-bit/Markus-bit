@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Markus Johnsen</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h1 align="center">Hi 👋, my name is Markus Johnsen</h1>
+<h3 align="center">I'm a passionate frontend developer from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markus-bit&label=Profile%20views&color=0055ff&style=flat" alt="markus-bit" /> </p>
 
