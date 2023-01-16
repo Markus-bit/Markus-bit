@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-sport Light system](https://github.com/Markus-bit/Esport-lys)
 
-- 🎯 My next goal is learning **React.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Markus-bit?tab=repositories)
 
