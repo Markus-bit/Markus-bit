@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markus-bit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mitzz-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markus-bit&show_icons=true&theme=tokyonight&locale=en" alt="mitzz-dev" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markus-bit" alt="markus-bit" /></a> </p>
