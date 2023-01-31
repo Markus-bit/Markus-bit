@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markus-bit&label=Profile%20views&color=0055ff&style=flat" alt="markus-bit" /> </p>
 
-- 🔭 I’m currently working on [E-sport Light system](https://github.com/Markus-bit/Esport-lys)
+- 🔭 I’m currently working on [the Openai API](https://github.com/Markus-bit/chatgpt-enhanced)
 
 - 🌱 I’m currently learning **React**
 
