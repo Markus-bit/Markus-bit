@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi👋,%20my%20name%20is%20Markus%20Johnsen&text2=I'm%20a%20passionate%20frontend%20developer%20from%20Norway&width=1010&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi👋,%20my%20name%20is%20Markus%20Johnsen&width=1010&height=200)](https://github.com/Akshay090/svg-banners)
 
 
 
