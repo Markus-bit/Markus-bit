@@ -22,7 +22,7 @@
   
 <br></br>
 
-![Github account info](https://metrics.lecoq.io/Markus-bit?template=classic&config.timezone=Norway)
+
 
 <details><summary>More statistics</summary>
 
