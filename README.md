@@ -26,7 +26,11 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/markus-bit/chatgpt-enhanced" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markus-bit&repo=chatgpt-enhanced&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/markus-bit/esport-lys" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markus-bit&repo=esport-lys&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/markus-bit/chatgpt-enhanced" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=markus-bit&repo=chatgpt-enhanced&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a>
+<a href="https://github.com/markus-bit/esport-lys" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=markus-bit&repo=esport-lys&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a>
+<a href="https://github.com/markus-bit/CO2-Calculator" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=markus-bit&repo=CO2-Calculator&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
+
 <details><summary>More Github stats</summary>
 
 <a href="http://www.github.com/markus-bit"><img src="https://github-readme-stats.vercel.app/api?username=markus-bit&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="markus-bit's GitHub stats" /></a>
