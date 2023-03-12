@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [the Openai API](https://github.com/Markus-bit/chatgpt-enhanced)
+- 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning **React**
 
