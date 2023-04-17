@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi👋,%20my%20name%20is%20Markus%20Johnsen&width=1010&height=200)]
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi👋,%20my%20name%20is%20Markus%20Johnsen&width=1010&height=200)
 
 
 
