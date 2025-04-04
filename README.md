@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Markus-bit?tab=repositories)
 
-- 📫 How to reach me **markussvorsk@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markus-bit&label=Profile%20views&color=0055ff&style=flat" alt="markus-bit" /> </p>
 
